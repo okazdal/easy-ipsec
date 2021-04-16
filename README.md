@@ -16,6 +16,8 @@ with information about your routers.
 - Edit main.py. Change key variable to a secure password. This will be set as you IPSec shared key.
 - Optional. Edit router.py if you want to change IPSec configuration.
 
+- python main.py
+
 ### TODO
 - Router configuration (IP addresses, local network and remote network) is in .py file for simplicity.
 This can be easily modified so configuration can be in a YML file or any other configuration file format.

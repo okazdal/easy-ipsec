@@ -1,4 +1,4 @@
-## Easy IPSec Configuration Script for Mikrotik RouterOS in Python
+## Easy IPSec Configuration Script for MikroTik RouterOS in Python
 
 Using this script you can create IPSec tunnels on RouterOS devices.
 

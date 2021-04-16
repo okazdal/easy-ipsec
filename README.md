@@ -3,6 +3,9 @@
 Using this script you can create IPSec tunnels on RouterOS devices.
 
 This script will configure full mesh IPSec for all the routers configured in routers_list.py
+This script will use RouterOS API service to connect to your routers. You can configure API or API-SSL.
+By default, script uses API. You can configure router.py, so it uses API-SSL.
+
 ### How to use:
 - pipenv shell
   
